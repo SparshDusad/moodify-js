@@ -1,5 +1,5 @@
 {
-  "name": "moodify",
+  "name": "moodifyjs",
   "version": "1.0.0",
   "description": "Moodify-JS is JS library that combines sentiment analysis with music suggestions. Analyze the sentiment of a given text and get the music recommendations that match the detected mood.",
   "main": "index.js",
